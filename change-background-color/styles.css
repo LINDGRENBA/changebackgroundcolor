@@ -1,0 +1,22 @@
+body {
+  background-color: #33A1FF;
+}
+
+.button-container {
+  text-align: center;
+  margin-top: 25%;
+}
+
+.change-color {
+  border-radius: 5px;
+  font-family: 'Bellota', cursive;
+  border: 2px solid black;
+  height: 50px;
+  width: 100px;
+  background-color: #F1C40F ;
+  font-weight: 900;
+}
+
+.change-color:hover {
+  cursor: pointer;
+}
